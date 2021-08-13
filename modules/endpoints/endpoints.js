@@ -1,4 +1,4 @@
-const host = 'http://localhost:5000';
+const host = 'https://citybee-exam-ca.herokuapp.com';
 
 export const VEHICLES_URI = `${host}/vehicles`;
 export const MODELS_URI = `${host}/models`;
